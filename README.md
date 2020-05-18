@@ -8,7 +8,6 @@ cognitive architecture.
 Goal is to classify the colors based on any neural network
 algorhytm with web camera input.
 
-
 ## How it works
 
 Program reads a web camera and analyze the images in real
